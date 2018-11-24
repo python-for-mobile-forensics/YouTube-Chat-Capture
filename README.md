@@ -29,7 +29,7 @@ the video as it plays.
    and searching for keywords from the chat.
 
 7. Fill a folder with 01.json to XX.json of the chat logs and run 
-   `chatcap.py 01.json` for each file. You can do this with a loop.
+   `chatcap.py 01.json >> output.csv` for each file. You can do this with a loop.
 
 8. Open output.csv in vim and run `:sort u`
 
